@@ -2,4 +2,4 @@
         name = jimmy-llama
         email = jimmy@llama-net.com
 [core]
-        editor = vim
+        editor = vi
